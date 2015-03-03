@@ -103,8 +103,6 @@
 				AB49F2BA1AA4AB4B00BB079B /* Images.xcassets */,
 				AB49F2BC1AA4AB4B00BB079B /* LaunchScreen.xib */,
 				AB49F2AD1AA4AB4B00BB079B /* Supporting Files */,
-				AB49F2E11AA53F5300BB079B /* CardMatchGame.h */,
-				AB49F2E21AA53F5300BB079B /* CardMatchGame.m */,
 			);
 			path = Machismo;
 			sourceTree = "<group>";
@@ -146,6 +144,8 @@
 				AB49F2D91AA4BDAF00BB079B /* Deck.m */,
 				AB49F2DB1AA4C09700BB079B /* PlayingCard.h */,
 				AB49F2DC1AA4C09700BB079B /* PlayingCard.m */,
+				AB49F2E11AA53F5300BB079B /* CardMatchGame.h */,
+				AB49F2E21AA53F5300BB079B /* CardMatchGame.m */,
 				AB49F2DE1AA4C6C200BB079B /* PlayingCardDeck.h */,
 				AB49F2DF1AA4C6C200BB079B /* PlayingCardDeck.m */,
 			);
@@ -450,6 +450,7 @@
 				AB49F2CF1AA4AB4B00BB079B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AB49F2D01AA4AB4B00BB079B /* Build configuration list for PBXNativeTarget "MachismoTests" */ = {
 			isa = XCConfigurationList;
@@ -458,6 +459,7 @@
 				AB49F2D21AA4AB4B00BB079B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
